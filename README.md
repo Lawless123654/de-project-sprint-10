@@ -15,3 +15,7 @@
 
 ## Metabase Dashboard
 Link: (will be added)
+
+## Vertica Schema
+- STAGING: `VT260112E95F7E__STAGING`
+- DWH (витрина): `VT260112E95F7E__DWH.global_metrics`
